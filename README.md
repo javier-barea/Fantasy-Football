@@ -1,5 +1,4 @@
 # Fantasy Football
-## EECS 448 - Projects 3 & 4
 
 ## Structure Info
 This project has been wired up to use Vue.js to help organize components of the game.
